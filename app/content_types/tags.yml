@@ -1,0 +1,13 @@
+---
+name: tags
+slug: tags
+label_field_name: tag
+order_by: created_at
+order_direction: asc
+fields:
+- tag:
+    label: tag
+    type: string
+    required: true
+    unique: false
+    localized: false
