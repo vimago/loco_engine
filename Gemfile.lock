@@ -192,6 +192,7 @@ GEM
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (3.0.1)
+    newrelic_rpm (3.13.0.299)
     nokogiri (1.5.11)
     origin (1.1.0)
     orm_adapter (0.5.0)
@@ -276,6 +277,7 @@ DEPENDENCIES
   compass (~> 0.12.7)
   compass-rails (~> 2.0.0)
   locomotive_cms (= 2.5.6)
+  newrelic_rpm
   rails (= 3.2.19)
   rails_12factor
   sass-rails (~> 3.2.3)
